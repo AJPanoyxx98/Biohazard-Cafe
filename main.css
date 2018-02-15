@@ -1,0 +1,36 @@
+body {
+	height: 50%;
+	margin: 0;
+	text-align: right;
+	width: 100%;
+}
+h1 {
+	font-size: 32px;
+	font-family: Palatino, 'Palatino Linotype', serif;
+	color: rgb(0,0,0);
+}
+h2 {
+	font-size: 56px;
+}
+.hero {
+	padding: 250px 0;
+	margin: 30px;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url(https://www.google.com.ph/search?q=coffe&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjnhpDsnqfZAhXMXrwKHZJJD0cQ_AUICigB&biw=1182&bih=900&safe=active&ssui=on#imgrc=PHhA_JSX0zE6IM:);
+  background-size: cover;
+  color: #ffffff;
+}
+
+
+p {
+
+  font-size: 1rem;
+  text-align: center;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
